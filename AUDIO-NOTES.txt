@@ -1,0 +1,15 @@
+AUDIO NOTES — V7
+
+Flashlight / Shortcuts:
+- All flashlight and Shortcut integration has been removed.
+- The simulator only plays sound.
+
+Audio fix:
+- V6 routed externally hosted MP3s through the Web Audio API without cross-origin permission.
+  Safari can then play silence even when the audio URL loads.
+- V7 uses native HTMLAudio playback instead, which avoids that routing problem.
+
+Requirements:
+- Internet connection is required because the sound effects are hosted MP3 files.
+- Turn up the iPad's media volume and tap COCK / READY, then SHOOT.
+- If Safari still cannot load a sound, the source host may be unavailable or blocking access.

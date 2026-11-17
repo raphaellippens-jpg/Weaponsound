@@ -1,0 +1,18 @@
+AUDIO SOURCES — SFXMint (CC0 1.0; no attribution required; hotlinking permitted)
+
+Pistol shot: https://sfxmint.com/dl/impact-gunshot-10.mp3
+Pistol cock: https://sfxmint.com/dl/gun-cocking-01.mp3
+Shotgun blast: https://sfxmint.com/dl/shotgun-01.mp3
+Shotgun pump: https://sfxmint.com/dl/gun-cocking-04.mp3
+Rifle shot: https://sfxmint.com/dl/impact-gunshot-14.mp3
+Rifle bolt: https://sfxmint.com/dl/gun-cocking-03.mp3
+SMG burst: https://sfxmint.com/dl/automatic-gunfire-04.mp3
+SMG cock: https://sfxmint.com/dl/gun-cocking-05.mp3
+Machine gun loop: https://sfxmint.com/dl/continuous-gunfire-10.mp3
+Machine gun cock: https://sfxmint.com/dl/gun-cocking-06.mp3
+Minigun loop: https://sfxmint.com/dl/continuous-gunfire-09.mp3 (played faster than the machine-gun loop)
+Minigun cock: https://sfxmint.com/dl/gun-cocking-10.mp3
+
+Note: The SFXMint library labels its files CC0. Some files are AI-generated or
+procedurally synthesized; the continuous-gunfire files are described as
+composited from library sounds. Internet is required for the hosted MP3 files.

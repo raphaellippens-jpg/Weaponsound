@@ -1,0 +1,11 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>SHOTGUN Simulator</title><link rel="stylesheet" href="style.css"></head>
+<body><main class="sim">
+<header class="topbar"><a class="back" href="index.html">← LOADOUT MENU</a><span class="tag">SIMULATION</span></header>
+<h2>SHOTGUN</h2><p class="desc">Heavy blast · pump-action reload feel</p>
+<section class="stage" aria-label="Weapon sound simulator"><div class="aim"><i></i></div><div class="weapon-shape"></div></section>
+<div class="controls"><button id="cock" class="shoot">COCK / READY</button><button id="shoot" class="shoot" disabled>SHOOT</button><span id="status" class="status">COCK FIRST</span></div>
+<p class="mode-note">One press plays the firing sound. Cock again after each firing sequence.</p>
+</main>
+<script>
+window.WEAPON_CONFIG = {"name":'SHOTGUN',"mode":'single',"cock":'https://sfxmint.com/dl/gun-cocking-04.mp3',"shot":'https://sfxmint.com/dl/shotgun-01.mp3',"slug":'shotgun'};
+</script><script src="weapon.js"></script></body></html>
